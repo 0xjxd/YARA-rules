@@ -2,8 +2,8 @@ import "pe"
 
 rule HRSword {
 
-  meta:
-	  description = "Detects HRSword used in recent Ransomware Campaigns, e.g. Ragnarok or LockBit to deactivate AV and system logging"
+	meta:
+		description = "Detects HRSword used in recent Ransomware Campaigns, e.g. Ragnarok or LockBit to deactivate AV and system logging"
 		author = "@jxd_io"
 		date = "2021-08-15"
 
