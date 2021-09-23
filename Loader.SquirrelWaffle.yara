@@ -1,7 +1,7 @@
-rule Loader.SquirrleWaffle {
+rule Loader.SquirrelWaffle {
   meta:
     author = "@jxd_io"
-    description = "Detects SquirrleWaffle Loader"
+    description = "Detects SquirrelWaffle Loader"
     date = "2021-09-23"
 
   strings:
