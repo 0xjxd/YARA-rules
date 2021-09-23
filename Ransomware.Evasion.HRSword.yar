@@ -21,5 +21,5 @@ rule HRSword {
 			pe.signatures[i].subject contains "BaseTruck Security"
 		)
 		
-		and any of them
+		and all of them
 }
