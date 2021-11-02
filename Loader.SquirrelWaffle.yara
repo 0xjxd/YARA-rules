@@ -1,4 +1,4 @@
-rule Loader.SquirrelWaffle {
+rule SquirrelWaffle {
   meta:
     author = "@jxd_io"
     description = "Detects SquirrelWaffle Loader"
